@@ -1,0 +1,7 @@
+train: unified_dataset/train/images
+val: unified_dataset/valid/images
+
+names:
+  0: ally_tank
+  1: dead_tank
+  2: enemy_tank

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.npy
+*.npz
+*.zip
+*.cache
+.pytest_cache/
+
+# Training artifacts: keep only explicitly selected checkpoints.
+yolo_bot/runs/**/weights/last.pt
+yolo_bot/dataset_all/
+
+# Local screenshots, replay captures and temporary files.
+replay_dataset/
+dataset_replays/

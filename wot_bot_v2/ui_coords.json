@@ -1,0 +1,19 @@
+{
+    "reference_resolution": [1920, 1080],
+    "in_battle": [960, 33],
+    "to_hangar": [960, 33],
+    "close_results": [1431, 137],
+    "close_rating": [1863, 54], 
+    "exit_to_hangar": [960, 505],
+    "leave_battle": [864, 597],
+    "health_region": [0, 850, 500, 230],
+    "tank_status_region": [-72, 25, 144, 22],
+    "tanks": [
+        [155, 865],
+        [385, 865],
+        [615, 865],
+        [155, 985],
+        [385, 985],
+        [615, 985]
+    ]
+}

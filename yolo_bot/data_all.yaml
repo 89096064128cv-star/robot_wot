@@ -1,0 +1,9 @@
+path: C:/Users/Pop/Desktop/robot_wot/yolo_bot/dataset_all
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: ally_tank
+  1: dead_tank
+  2: enemy_tank
